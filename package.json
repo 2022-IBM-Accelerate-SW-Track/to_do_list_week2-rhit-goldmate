@@ -47,5 +47,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "As of now, you have completed Project Week 1 and should now have a React Application that can navigate to an **About me** page and a **Home** page currently hosting the Todo List Application that we will continue to build upon for Project Week 2. For Project Week 2, Look to implement more Material UI components to the front-end of your to-do list web application to give it a sleek and modern appearance. Aside from styling, A typical user wants to be able to use a to-do list to organize tasks. Keeping user stories in mind when designing applications helps determine important features. We encourage you to take a unique approach to this lab as there is no one right answer. \r - [Material Design](https://material.io/design/introduction) is a design system that can guide you on what UI decisions to make if you would like to explore best practices, but functionality is the key focus of the lab.\r - No back-end is required for this lab, all data (tasks) should live in the front-end.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2022-IBM-Accelerate-SW-Track/to_do_list_week2-rhit-goldmate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2022-IBM-Accelerate-SW-Track/to_do_list_week2-rhit-goldmate/issues"
+  },
+  "homepage": "https://github.com/2022-IBM-Accelerate-SW-Track/to_do_list_week2-rhit-goldmate#readme",
+  "devDependencies": {}
 }
